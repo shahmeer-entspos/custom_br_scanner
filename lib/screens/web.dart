@@ -3,8 +3,8 @@ import 'package:web/web.dart' as html;
 import 'dart:ui_web' as ui;
 
 import 'package:flutter/material.dart';
-import 'package:simple_barcode_scanner/constant.dart';
-import 'package:simple_barcode_scanner/enum.dart';
+import 'package:custom_br_scanner/constant.dart';
+import 'package:custom_br_scanner/enum.dart';
 
 /// Barcode scanner for web using iframe
 class BarcodeScanner extends StatelessWidget {

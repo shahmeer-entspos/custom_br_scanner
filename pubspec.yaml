@@ -1,8 +1,8 @@
-name: simple_barcode_scanner
+name: custom_br_scanner
 description: Scanner plugin for Barcode/QR code. Scan using flutter_barcode_scanner for mobile device and html5-qrcode for web and windows
 version: 0.1.1
-homepage: https://github.com/CodingWithTashi/simple_barcode_scanner
-issue_tracker: https://github.com/CodingWithTashi/simple_barcode_scanner/issues
+homepage: https://github.com/shahmeer-entspos/custom_br_scanner
+issue_tracker: https://github.com/shahmeer-entspos/custom_br_scanner/issues
 
 platforms:
   android:
@@ -37,11 +37,10 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
-
   # To add assets to your package, add an assets section, like this:
   assets:
-    - packages/simple_barcode_scanner/assets/barcode.html
-    - packages/simple_barcode_scanner/assets/html5-qrcode.min.js
+    - packages/custom_br_scanner/assets/barcode.html
+    - packages/custom_br_scanner/assets/html5-qrcode.min.js
   #
   # For details regarding assets in packages, see
   # https://flutter.dev/assets-and-images/#from-packages

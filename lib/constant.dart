@@ -1,8 +1,8 @@
 class PackageConstant {
   static const barcodeFilePath =
-      "packages/simple_barcode_scanner/assets/barcode.html";
+      "packages/custom_br_scanner/assets/barcode.html";
   static const barcodeFileWebPath =
-      "assets/packages/simple_barcode_scanner/assets/barcode.html";
+      "assets/packages/custom_br_scanner/assets/barcode.html";
 }
 
 String kScanPageTitle = 'Scan barcode/qrcode';

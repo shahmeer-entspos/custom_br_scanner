@@ -1,10 +1,10 @@
 library simple_barcode_scanner;
 
 import 'package:flutter/material.dart';
-import 'package:simple_barcode_scanner/enum.dart';
-import 'package:simple_barcode_scanner/screens/shared.dart';
+import 'package:custom_br_scanner/enum.dart';
+import 'package:custom_br_scanner/screens/shared.dart';
 
-export 'package:simple_barcode_scanner/simple_barcode_scanner.dart';
+export 'package:custom_br_scanner/custom_br_scanner.dart';
 
 class SimpleBarcodeScannerPage extends StatelessWidget {
   ///Barcode line color default set to #ff6666
